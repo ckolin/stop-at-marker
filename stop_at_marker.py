@@ -6,7 +6,9 @@ bl_info = {
 }
 
 import bpy
+from bpy.app.handlers import persistent
 
+@persistent
 def marker_stopper(scene):
     for marker in scene.timeline_markers.values():
         if marker.frame == scene.frame_current:
