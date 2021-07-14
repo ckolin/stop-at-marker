@@ -2,7 +2,9 @@
 
 ## What does it do?
 
-Does what it says on the box: Animation playback is stopped as soon as the playhead hits a marker.
+This is an add-on for Blender, the free and open source 3D creation suite.
+
+It does what it says on the box: Animation playback is stopped as soon as the playhead hits a marker.
 
 ## What is it for?
 
