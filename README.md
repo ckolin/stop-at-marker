@@ -1,8 +1,8 @@
 # Stop At Marker
 
-## What does it do?
-
 This is an add-on for Blender, the free and open source 3D creation suite.
+
+## What does it do?
 
 It does what it says on the box: Animation playback is stopped as soon as the playhead hits a marker.
 
